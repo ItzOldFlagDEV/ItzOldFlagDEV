@@ -1,2 +1,2 @@
 Hello!
-I'm C and C# developer
+idk, i just starter coder.
